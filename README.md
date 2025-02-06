@@ -1,4 +1,4 @@
-#PartNet-Mobility Datasets to MJCF format for Mujoco Simulator
+# PartNet-Mobility Datasets to MJCF format for Mujoco Simulator
 
 # Overall
 This repo contains codes to convert PartNet-Mobility Datasets which are suited for SAPIEN simulator to MJCF format. We expect this would help users to spawn the datasets in Mujoco simulator easily. 
